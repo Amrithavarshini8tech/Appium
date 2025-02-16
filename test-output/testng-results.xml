@@ -1,33 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+<testng-results ignored="7" total="8" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-02-14T14:48:31 GMT-05:00" name="Default suite" finished-at="2025-02-14T14:49:12 GMT-05:00" duration-ms="41721">
+  <suite started-at="2025-02-15T21:17:56 GMT-05:00" name="Default suite" finished-at="2025-02-15T21:18:19 GMT-05:00" duration-ms="23572">
     <groups>
     </groups>
-    <test started-at="2025-02-14T14:48:31 GMT-05:00" name="Default test" finished-at="2025-02-14T14:49:12 GMT-05:00" duration-ms="41721">
+    <test started-at="2025-02-15T21:17:56 GMT-05:00" name="Default test" finished-at="2025-02-15T21:18:19 GMT-05:00" duration-ms="23572">
       <class name="Amrithavarshini8tech.Appium.appium">
-        <test-method is-config="true" signature="startDriver()[pri:0, instance:Amrithavarshini8tech.Appium.appium@e350b40]" started-at="2025-02-14T14:48:31 GMT-05:00" name="startDriver" finished-at="2025-02-14T14:48:41 GMT-05:00" duration-ms="10728" status="PASS">
+        <test-method is-config="true" signature="startDriver()[pri:0, instance:Amrithavarshini8tech.Appium.appium@6c1a5b54]" started-at="2025-02-15T21:17:56 GMT-05:00" name="startDriver" finished-at="2025-02-15T21:18:07 GMT-05:00" duration-ms="11598" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- startDriver -->
-        <test-method signature="appiumTest_Preference()[pri:0, instance:Amrithavarshini8tech.Appium.appium@e350b40]" started-at="2025-02-14T14:48:41 GMT-05:00" name="appiumTest_Preference" finished-at="2025-02-14T14:48:51 GMT-05:00" duration-ms="9071" status="PASS">
+        <test-method signature="potrait_To_Landscape()[pri:0, instance:Amrithavarshini8tech.Appium.appium@6c1a5b54]" started-at="2025-02-15T21:18:07 GMT-05:00" name="potrait_To_Landscape" finished-at="2025-02-15T21:18:18 GMT-05:00" duration-ms="11010" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- appiumTest_Preference -->
-        <test-method is-config="true" signature="quitDriver()[pri:0, instance:Amrithavarshini8tech.Appium.appium@e350b40]" started-at="2025-02-14T14:48:51 GMT-05:00" name="quitDriver" finished-at="2025-02-14T14:48:51 GMT-05:00" duration-ms="715" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- quitDriver -->
-        <test-method is-config="true" signature="startDriver()[pri:0, instance:Amrithavarshini8tech.Appium.appium@e350b40]" started-at="2025-02-14T14:48:51 GMT-05:00" name="startDriver" finished-at="2025-02-14T14:49:00 GMT-05:00" duration-ms="8387" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- startDriver -->
-        <test-method signature="longPress()[pri:0, instance:Amrithavarshini8tech.Appium.appium@e350b40]" started-at="2025-02-14T14:49:00 GMT-05:00" name="longPress" finished-at="2025-02-14T14:49:12 GMT-05:00" duration-ms="12212" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- longPress -->
-        <test-method is-config="true" signature="quitDriver()[pri:0, instance:Amrithavarshini8tech.Appium.appium@e350b40]" started-at="2025-02-14T14:49:12 GMT-05:00" name="quitDriver" finished-at="2025-02-14T14:49:12 GMT-05:00" duration-ms="533" status="PASS">
+        </test-method> <!-- potrait_To_Landscape -->
+        <test-method is-config="true" signature="quitDriver()[pri:0, instance:Amrithavarshini8tech.Appium.appium@6c1a5b54]" started-at="2025-02-15T21:18:18 GMT-05:00" name="quitDriver" finished-at="2025-02-15T21:18:19 GMT-05:00" duration-ms="870" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- quitDriver -->
